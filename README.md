@@ -36,7 +36,7 @@ If you're seeking to reproduce the analysis, I recommend starting with the HPS m
 
 ## Methods Summary
 
-- **Software**: Stata 17
+- **Software**: Stata 18
 - **Techniques**:
   - Difference-in-Differences (DiD) regression
   - Event study using interaction terms
