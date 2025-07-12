@@ -1,4 +1,4 @@
-# 2024–2025 Master's Thesis: Did the 2021 Child Tax Credit Ease Mental Health Woes?
+# 2024-2025 Master's Thesis: Did the 2021 Child Tax Credit Ease Mental Health Woes?
 
 This repository contains the Stata code and final paper for my dual-degree Master’s thesis at Georgetown University, examining whether the expanded 2021 Child Tax Credit (CTC) reduced household anxiety using a Difference-in-Differences framework and event study regressions.
 
