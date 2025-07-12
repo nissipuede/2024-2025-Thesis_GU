@@ -8,7 +8,7 @@ This repository contains the Stata code and final paper for my dual-degree Maste
 - **Approach**: I use microdata from the Household Pulse Survey (HPS) and apply a Difference-in-Differences (DiD) approach with event study extensions.
 - **Outcome**: Binary anxiety indicator (derived from a 4-category HPS variable)
 - **Treatment**: Eligibility or receipt of the CTC, defined using child age, birth year, and self-reported receipt during the post-period
-- **Result**: CTC eligibility is associated with a modest increase in anxiety, potentially reflecting economic volatility and mental health strain during the policy period.
+- **Result**: CTC eligibility is associated with a modest increase in anxiety at the population level, potentially reflecting economic volatility and mental health strain during the policy period. However, subgroup analysis reveals that **vulnerable households**—such as **low-income**, **non-college-educated**, and **single-parent** households—experienced a **less severe increase in anxiety**, suggesting the CTC may have offered **partial psychological relief** for those most in need.
 
 ## Data Scope
 
