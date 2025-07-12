@@ -17,11 +17,12 @@ This repository contains the Stata code and final paper for my dual-degree Maste
 
 ## Repository Structure
 
-| Folder/File                             | Description |
-|-----------------------------------------|-------------|
-| `code/`                                 | Stata scripts for cleaning, regression analysis, and visualization |
-| `thesis/`                               | Final thesis PDF |
-| `data/` *(not included)*                | Source data omitted due to size and licensing |
+| File                                 | Description |
+|--------------------------------------|-------------|
+| `Do-Thesis_Regression Analysis_4.13(b).do` | Stata regression script |
+| `Do-Thesis_Visualizations (4.27).do`       | Stata visualizations script |
+| `Cantu, Nissishalom - Thesis.pdf`          | Final thesis PDF |
+| *(No data files included)*           | Source data omitted due to size and licensing |
 
 ## Note on Data Availability
 
